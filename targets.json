@@ -1,0 +1,27 @@
+[
+  {
+    "description": "router",
+    "address": "192.168.0.1",
+    "packet_size": "32"
+  },
+  {
+    "description": "yandex",
+    "address": "ya.ru",
+    "packet_size": "32"
+  },
+  {
+    "description": "mailru",
+    "address": "mail.ru",
+    "packet_size": "32"
+  },
+  {
+    "description": "google",
+    "address": "google.com",
+    "packet_size": "32"
+  },
+  {
+    "description": "reg.ru",
+    "address": "reg.ru",
+    "packet_size": "32"
+  }
+]
