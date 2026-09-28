@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <AssemblyName>___popingui</AssemblyName>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <OptimizationPreference>Speed</OptimizationPreference>
+        <OutputType>Exe</OutputType>
+        <PackAsTool>true</PackAsTool>
+        <PublishAot>true</PublishAot>
+        <PublishTrimmed>true</PublishTrimmed>
+        <TargetFramework>net10.0</TargetFramework>
+        <UserSecretsId>Popingui-fad0d2b1ffc90726e4c673ab1b8ce8aea5beb99c19dad69281cf5d7afccfc293</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Update="config.json">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+            <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+        </None>
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Spectre.Console" Version="0.54.0" />
+    </ItemGroup>
+
+</Project>

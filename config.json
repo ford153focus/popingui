@@ -1,0 +1,35 @@
+[
+    { "address": "192.168.1.1",   "description": "router" },
+
+    { "address": "192.168.1.5",   "description": "LG Nexus 5" },
+    { "address": "192.168.1.15",  "description": "ford-i320-15ikb" },
+    { "address": "192.168.1.20",  "description": "Emily's Galaxy A20", "enabled": false },
+    { "address": "192.168.1.30",  "description": "Joe's Galaxy A30s", "enabled": false },
+    { "address": "192.168.1.44",  "description": "DM4" },
+    { "address": "192.168.1.45",  "description": "B450" },
+    { "address": "192.168.1.170", "description": "H170" },
+    { "address": "192.168.1.194", "description": "Galaxy Tab S4" },
+
+    { "address": "23.111.25.133", "description": "" },
+    { "address": "banxe-site.ams1.dev0.banxe.sits.pro",  "description": "banxe site dev0" },
+    { "address": "site-banxe.ams1.prod.banxe.sits.pro",  "description": "banxe site prod" },
+    { "address": "banxe.com", "description": "" },
+
+    { "address": "10.30.128.1", "description": "" },
+    { "address": "10.254.95.67", "description": "" },
+    { "address": "37.17.4.94", "description": "reserved.a1.by" },
+    { "address": "37.17.4.82", "description": "reserved.a1.by" },
+    { "address": "212.98.161.101", "description": "msq.asr-km.bn.by" },
+    { "address": "185.11.76.41", "description": "" },
+    { "address": "185.11.76.26", "description": "" },
+    { "address": "74.125.49.252", "description": "" },
+    { "address": "142.251.225.169", "description": "" },
+    { "address": "142.250.224.91", "description": "" },
+
+    { "address": "8.8.8.8", "description": "dns.google" },
+    { "address": "1.1.1.1", "description": "cloudflare" },
+    { "address": "9.9.9.9", "description": "quad 9" },
+
+    { "address": "mail.ru", "description": "" },
+    { "address": "ya.ru", "description": "" }
+]
